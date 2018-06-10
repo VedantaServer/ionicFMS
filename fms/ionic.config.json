@@ -1,0 +1,8 @@
+{
+  "name": "fms",
+  "app_id": "eb216b61",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
